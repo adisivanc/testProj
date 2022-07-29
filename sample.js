@@ -1,3 +1,3 @@
-let a=190;
+let a=25;
 let b=45;
 console.log(a+b);
